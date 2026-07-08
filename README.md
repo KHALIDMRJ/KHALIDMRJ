@@ -299,7 +299,7 @@ Built **Sahtek** from concept to live deployment during a university hackathon â
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KHALIDMRJ&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&title=MultipleLang,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+<img src="https://github-profile-trophy-gamma-ruddy.vercel.app/?username=KHALIDMRJ&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&title=MultipleLang,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
 
 </div>
 
