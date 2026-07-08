@@ -315,14 +315,13 @@ Built **Sahtek** from concept to live deployment during a university hackathon â
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="24"/> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bricks.png" width="24"/> Contribution Calendar â€” 3D
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KHALIDMRJ/KHALIDMRJ/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/KHALIDMRJ/KHALIDMRJ/main/metrics.isocalendar.svg" />
 
 </div>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="24"/> Current Focus
