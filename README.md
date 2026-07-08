@@ -315,11 +315,11 @@ Built **Sahtek** from concept to live deployment during a university hackathon â
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bricks.png" width="24"/> Contribution Calendar â€” 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="24"/> Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KHALIDMRJ/KHALIDMRJ/main/metrics.isocalendar.svg" />
+<img src="https://raw.githubusercontent.com/KHALIDMRJ/KHALIDMRJ/output/snake.svg" />
 
 </div>
 ---
